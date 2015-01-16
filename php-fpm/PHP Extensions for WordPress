@@ -1,4 +1,5 @@
-Not all extensions recommended here are strictly required for WordPress, but are included here as they cover most use cases and possible plugin combinations. 
+Not all extensions recommended here are strictly required for WordPress, but are included here as 
+they cover most use cases and possible plugin combinations. 
 
 CentOS:
 php-fpm mysql-server php php-soap php-pear php-gd php-mbstring php-mcrypt php-pecl-zendopcache php-pecl-memcache php-xml php-mysql
